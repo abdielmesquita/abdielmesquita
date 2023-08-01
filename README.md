@@ -3,6 +3,7 @@
 # Abdiel Nascimento de Freitas Mesquita
 
 😎 Trabalho com a Stack: EmberJs e ExpressJS (javascript,  nodejs) & Codeigniter(PHP + MySQL), usando várias tecnologias de suporte, deploy e infraestrutura correlatas.
+
 🤓 Atualmente estou aprendendo Javae Cloud AWS
 
 ## Conecte-se comigo
