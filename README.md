@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-e5e5e0?style=for-the-badge&logoColor=FF9900&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-e5e5e0?style=for-the-badge&logo=typescript) ![PHP](https://img.shields.io/badge/PHP-e5e5e0?style=for-the-badge&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-e5e5e0?style=for-the-badge&logo=mysql)
 
 ### Frameworks & Libraries
- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-e5e5e0?style=for-the-badge&logo=codeigniter) ![EmberJS](https://img.shields.io/badge/EmberJS-e5e5e0?style=for-the-badge&logo=emberdotjs) ![Express_JS](https://img.shields.io/badge/Express_JS-e5e5e0?style=for-the-badge&logoColor=16161f&logo=express)  ![React](https://img.shields.io/badge/React-e5e5e0?style=for-the-badge&logoColor=0ab3d1&logo=react) ![ElectronJS](https://img.shields.io/badge/ElectronJS-e5e5e0?style=for-the-badge&logoColor=0e0218&logo=electron)
+![Node](https://img.shields.io/badge/NodeJS-e5e5e0?style=for-the-badge&logo=nodedotjs) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-e5e5e0?style=for-the-badge&logo=codeigniter) ![EmberJS](https://img.shields.io/badge/EmberJS-e5e5e0?style=for-the-badge&logo=emberdotjs) ![Express_JS](https://img.shields.io/badge/Express_JS-e5e5e0?style=for-the-badge&logoColor=16161f&logo=express)  ![React](https://img.shields.io/badge/React-e5e5e0?style=for-the-badge&logoColor=0ab3d1&logo=react) ![ElectronJS](https://img.shields.io/badge/ElectronJS-e5e5e0?style=for-the-badge&logoColor=0e0218&logo=electron)
 
  
 
